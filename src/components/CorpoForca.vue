@@ -1,7 +1,7 @@
 <template>
   <div class="forca">
     <img 
-      :src="`https://raw.githubusercontent.com/rodrisoares/jogoForcaVue/main/src/assets/${erros}.svg`"
+      :src="`https://raw.githubusercontent.com/rodrisoares/jogo-forca-vue/main/src/assets/${erros}.svg`"
       alt="Imagem de uma forca"
     />
   </div>
