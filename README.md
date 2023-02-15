@@ -12,7 +12,7 @@ Jogo da forca é um jogo para adivinhar uma palavra com base em uma dica, a cada
 ## Rodando a aplicação:
 ```
 # Clone este repositório
-$ git clone https://github.com/rodrisoaresjogo-forca-vue.git
+$ git clone https://github.com/rodrisoares/jogo-forca-vue.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd jogo-forca-vue
